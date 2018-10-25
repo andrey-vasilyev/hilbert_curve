@@ -9,5 +9,5 @@ ocamlbuild -package graphics hilbert_curve.native
 
 ## Usage
 
-When running use press 'a' to decrease curve order, press 'z' to increase and press 'q' to quit
+When running press 'a' to decrease curve order, press 'z' to increase it and press 'q' to quit
 
